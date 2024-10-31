@@ -1,16 +1,7 @@
 Excel VBA Projekt: Dynamické Formátovanie a Vstupné Masky s VBA
 
 Tento projekt demonštruje rôzne možnosti použitia VBA v Exceli na úpravu formátovania, interaktívne preklikávanie textu a prácu s dátumovými rozsahmi. Hlavné funkcie zahŕňajú formátovanie prepojené s VBA kódom, vytváranie vstupnej masky pre dátumové rozsahy a dynamické striedanie preškrtnutého textu.
-Obsah
 
-    Funkcie
-    Inštalácia
-    Použitie
-    Podrobnosti VBA Skriptov
-        Formátovanie Dátumového Rozsahu v TextBoxe
-        Interaktívne Preklikávanie Preškrtnutého Textu
-    Požiadavky
-    Licencia
 
 Funkcie
 
